@@ -31,3 +31,7 @@ Cubing Workflow
   7.56, 
   4.91 
  ### ao25: 7.46
+ 
+ ### Sources
+ <a href="https://cstimer.net/">CS Timer</a> <br>
+ <a href="https://www.youtube.com/watch?v=hu54JZOjEQA">2x2</a> <br>
