@@ -2,7 +2,8 @@
 Cubing Workflow
 
 ## March 7
-**2x2, can solve, method:ortega**
+**2x2, can solve, method:ortega** <br>
+### Times
   8.50, 
   5.75, 
   7.10, 
