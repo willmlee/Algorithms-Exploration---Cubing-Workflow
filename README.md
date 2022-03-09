@@ -99,7 +99,54 @@ Cubing Workflow
 25. 19.50   U2 B' U2 F R2 F D2 U2 B F2 D2 L' B' F2 R' U R2 D2 B' F2
  ### ao25: 22.73
  
- 
+ ## March 9
+ **Pyraminx, can solve, method: not sure
+ ### Times
+1. (18.44)   R L B' R L' B U' B L l u' 
+2. (10.52)   U R L' B L' B' L' U l' r' b u' 
+3. 15.81   U B' U L' U B' U L l' b' 
+4. 12.98   L' R' U' B R B R U' b u 
+5. 12.91   R' B L U' L B' R' L l r' b'
+ ### ao5: 13.90
+1. 13.83   U' B' R B' R' U' R' B l' r' u' 
+2. (19.84)   R U' L' R B R B' U l' u 
+3. 13.52   R' L' B' U' B L' U' B l' r u 
+4. 12.32   U' R' L B' U' B' L U l' u 
+5. 14.04   U R L U B U' R B r' u' 
+6. 14.19   U' B' L B' R L' U' R l u 
+7. 16.27   R' B U' R' L' U' R' U r b 
+8. 18.44   R L B' R L' B U' B L l u' 
+9. (10.52)   U R L' B L' B' L' U l' r' b u' 
+10. 15.81   U B' U L' U B' U L l' b' 
+11. 12.98   L' R' U' B R B R U' b u 
+12. 12.91   R' B L U' L B' R' L l r' b'
+ ### ao12: 14.43
+1. 8.35   B' U R B R U' R' B' l 
+2. 14.71   B R' L B' R' B L' U' l' r' b' 
+3. 16.85   U L' R U' R B U B U' l' b u 
+4. 15.98   L B R' U R U R L l' r' 
+5. 11.73   R U B R' L' B L' U l u' 
+6. 11.40   B' L R' U' B L' B R' l' r' b' 
+7. 15.87   B' R B' R' U R L B l r' u 
+8. 14.81   R L B' R' U R B' U l r b u' 
+9. 12.33   L U R L B L R' B l r u 
+10. 13.41   R B U' B R L' U B' r b' u' 
+11. 19.95   L U' L' B' L' U B' R L' l r 
+12. 17.10   R' B L' R' L' B L R' l' r b u' 
+13. 18.41   U' R' U B L' B L' U' l' b' u' 
+14. 13.83   U' B' R B' R' U' R' B l' r' u' 
+15. 19.84   R U' L' R B R B' U l' u 
+16. 13.52   R' L' B' U' B L' U' B l' r u 
+17. 12.32   U' R' L B' U' B' L U l' u 
+18. 14.04   U R L U B U' R B r' u' 
+19. 14.19   U' B' L B' R L' U' R l u 
+20. 16.27   R' B U' R' L' U' R' U r b 
+21. 18.44   R L B' R L' B U' B L l u' 
+22. 10.52   U R L' B L' B' L' U l' r' b u' 
+23. 15.81   U B' U L' U B' U L l' b' 
+24. 12.98   L' R' U' B R B R U' b u 
+25. 12.91   R' B L U' L B' R' L l r' b'
+ ### ao25: 14.62
  
  ### Sources
  <a href="https://cstimer.net/">CS Timer</a> <br>
@@ -107,3 +154,5 @@ Cubing Workflow
  <a href="https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/">3x3</a> <br>
  <a href="https://www.youtube.com/watch?v=3B_oB2YrLvk">F2L</a> <br>
  <a href="https://www.youtube.com/watch?v=LWiIVwG8vsg">F2L</a> <br>
+ <a href="https://www.youtube.com/watch?v=bP8uNejf3y8">Pyraminx</a> <br>
+ <a href"https://www.youtube.com/watch?v=2H0FUvaaUsI">Pyraminx</a> <br>
