@@ -155,4 +155,4 @@ Cubing Workflow
  <a href="https://www.youtube.com/watch?v=3B_oB2YrLvk">F2L</a> <br>
  <a href="https://www.youtube.com/watch?v=LWiIVwG8vsg">F2L</a> <br>
  <a href="https://www.youtube.com/watch?v=bP8uNejf3y8">Pyraminx</a> <br>
- <a href"https://www.youtube.com/watch?v=2H0FUvaaUsI">Pyraminx</a> <br>
+ <a href="https://www.youtube.com/watch?v=2H0FUvaaUsI">Pyraminx</a> <br>
