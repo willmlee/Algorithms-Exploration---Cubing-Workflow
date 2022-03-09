@@ -2,7 +2,7 @@
 Cubing Workflow
 
 ## March 7
-**2x2, can solve, method:ortega** <br>
+**2x2, can solve** <br>
 ### Times
 1. (16.18)   R' F' R2 F U F2 R' F U2 
 2. 5.62   F R U R' U R' F U2 R' F' 
@@ -49,9 +49,16 @@ Cubing Workflow
 24. 7.56   F R2 U F' U F' U' R' F2 
 25. 4.91   U' F2 R2 F' U R2 F' R' U'
  ### ao25: 7.46
- 
+
+Method: ortega <br>
+ <ol>
+  <li>Solve one side (edge colours do not have to match)</li>
+  <li>Use "OLL" algorithms to orient the face opposite to intially solved face</li>
+  <li>Use 1 of 5 algorithms to finish solving the cube depending on the case</li>
+ </ol>
+
 ## March 8
-**3x3, can solve, method:CFOP** <br>
+**3x3, can solve** <br>
 ### Times
 1. 22.54   R U2 D2 F2 R2 F D' B' R B2 D2 L2 U2 F R2 F2 U2 F2 U2 B 
 2. 21.60   L2 F2 U' F R' U' F U F2 R2 D2 L2 F' D2 R2 U2 L2 F U2 B2 
@@ -98,9 +105,17 @@ Cubing Workflow
 24. 24.09   B' L2 B U D R D' B L' F2 D2 F2 R2 U2 D F2 L2 D B2 L2 D 
 25. 19.50   U2 B' U2 F R2 F D2 U2 B F2 D2 L' B' F2 R' U R2 D2 B' F2
  ### ao25: 22.73
+
+Method: CFOP <br>
+ <ol>
+  <li>Choose a side and complete a cross (I always solve on white)</li>
+  <li>Comeplete the first two layers by matching up the edges to corners and inersting them into their respective spots</li>
+  <li>Use "OLL" algorithms to get the opposite side to the cross to have the same colour facing up</li>
+  <li>Use "PLL" algorithms to permutate the last layer and solve the cube</li>
+ </ol>
  
  ## March 9
- **Pyraminx, can solve, method: not sure
+ **Pyraminx, can solve**
  ### Times
 1. (18.44)   R L B' R L' B U' B L l u' 
 2. (10.52)   U R L' B L' B' L' U l' r' b u' 
@@ -147,6 +162,15 @@ Cubing Workflow
 24. 12.98   L' R' U' B R B R U' b u 
 25. 12.91   R' B L U' L B' R' L l r' b'
  ### ao25: 14.62
+ 
+ Method: not sure <br>
+ <ol>
+  <li>Choose a colour to solve on (I always choose blue)</li>
+  <li>Move centers to the same side</li>
+  <li>Insert edges into their respective spots</li>
+  <li>Use around 1 of 5 algorithms to solve the last layer</li>
+  <li>*Tips are solved whenever I feel is best during the solve</li>
+ </ol>
  
  ### Sources
  <a href="https://cstimer.net/">CS Timer</a> <br>
