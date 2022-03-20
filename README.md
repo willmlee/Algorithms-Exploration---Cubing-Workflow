@@ -175,8 +175,9 @@ Method: CFOP <br>
  ### Sources
  <a href="https://cstimer.net/">CS Timer</a> <br>
  <a href="https://www.youtube.com/watch?v=hu54JZOjEQA">2x2</a> <br>
+ <a href="https://www.youtube.com/watch?v=xorznVr_1tk">2x2</a> <br>
  <a href="https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/">3x3</a> <br>
- <a href="https://www.youtube.com/watch?v=3B_oB2YrLvk">F2L</a> <br>
- <a href="https://www.youtube.com/watch?v=LWiIVwG8vsg">F2L</a> <br>
+ <a href="https://www.youtube.com/watch?v=3B_oB2YrLvk">3x3 F2L</a> <br>
+ <a href="https://www.youtube.com/watch?v=LWiIVwG8vsg">3x3 F2L</a> <br>
  <a href="https://www.youtube.com/watch?v=bP8uNejf3y8">Pyraminx</a> <br>
  <a href="https://www.youtube.com/watch?v=2H0FUvaaUsI">Pyraminx</a> <br>
